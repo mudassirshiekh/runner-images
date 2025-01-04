@@ -68,6 +68,7 @@ image. Images are updated on a weekly cadence. Any workflows that run on a beta 
 Customers choosing to use Beta images are encouraged to provide feedback in the runner-images repo by creating an issue. A Beta may take on different availability, i.e. public vs private.
 
 ### GA
+## By Mudassir Alam
 
 A GA (General Availability) image has been through a Beta period and is deemed ready for general use. Images are updated on a weekly cadence. In order to be moved to
 GA the image must meet the following criteria:
